@@ -14,7 +14,7 @@ VUE_APP_CONTRACT_ADDRESS=
 VUE_APP_NETWORK=
 ```
 
-After everything is setted up you can run VueJS project.
+After everything is setted up you can run VueJS project, you can find a live example here: https://turinglabsorg.github.io/magiclink-vue-boilerplate/
 
 ## Project setup
 ```
